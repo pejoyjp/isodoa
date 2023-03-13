@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/isodoa/static/css/main.b1c4bfb0.css",
+    "main.js": "/isodoa/static/js/main.517e3d62.js",
+    "static/media/lain.png": "/isodoa/static/media/lain.63303262489bfeeb5543.png",
+    "static/media/aot.png": "/isodoa/static/media/aot.8a663e23ddf3ddfa3925.png",
+    "static/media/handgun.png": "/isodoa/static/media/handgun.b1cd4eb1f2757a46fcdf.png",
+    "static/media/spider.png": "/isodoa/static/media/spider.3fddf6c776dc1d184ef9.png",
+    "static/media/logo.jpeg": "/isodoa/static/media/logo.af79d27b451e443063de.jpeg",
+    "index.html": "/isodoa/index.html",
+    "main.b1c4bfb0.css.map": "/isodoa/static/css/main.b1c4bfb0.css.map",
+    "main.517e3d62.js.map": "/isodoa/static/js/main.517e3d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c4bfb0.css",
+    "static/js/main.517e3d62.js"
+  ]
+}
