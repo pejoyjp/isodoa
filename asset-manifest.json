@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/isodoa/static/css/main.b1c4bfb0.css",
-    "main.js": "/isodoa/static/js/main.4467a6f7.js",
+    "main.css": "/isodoa/static/css/main.fb47df69.css",
+    "main.js": "/isodoa/static/js/main.fa44499f.js",
     "static/media/aot.png": "/isodoa/static/media/aot.b1fed8cd53be2a0362ea.png",
     "static/media/lain.png": "/isodoa/static/media/lain.63303262489bfeeb5543.png",
     "static/media/handgun.png": "/isodoa/static/media/handgun.b1cd4eb1f2757a46fcdf.png",
     "static/media/spider.png": "/isodoa/static/media/spider.3fddf6c776dc1d184ef9.png",
     "static/media/logo.jpeg": "/isodoa/static/media/logo.af79d27b451e443063de.jpeg",
     "index.html": "/isodoa/index.html",
-    "main.b1c4bfb0.css.map": "/isodoa/static/css/main.b1c4bfb0.css.map",
-    "main.4467a6f7.js.map": "/isodoa/static/js/main.4467a6f7.js.map"
+    "main.fb47df69.css.map": "/isodoa/static/css/main.fb47df69.css.map",
+    "main.fa44499f.js.map": "/isodoa/static/js/main.fa44499f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1c4bfb0.css",
-    "static/js/main.4467a6f7.js"
+    "static/css/main.fb47df69.css",
+    "static/js/main.fa44499f.js"
   ]
 }
